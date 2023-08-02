@@ -25,7 +25,7 @@ jobs:
             fabric
             quilt
           version: ${{ steps.mod-release-version.outputs.MOD_RELEASE_VERSION }}
-          modrinth-id: jTUiUpsh
+          modrinth-id: oAm4Nrjc
           modrinth-token: ${{ secrets.MODRINTH_TOKEN }}
-          curseforge-id: 564941
-          curseforge-token: ${{ secrets.CURSEFORGE_TOKEN }}
+#          curseforge-id: 564941
+#          curseforge-token: ${{ secrets.CURSEFORGE_TOKEN }}

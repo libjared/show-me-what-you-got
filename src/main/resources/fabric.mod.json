@@ -3,15 +3,16 @@
   "id": "smwyg",
   "version": "${version}",
 
-  "name": "Show Me What You Got",
+  "name": "This Is What U Need",
   "description": "Allows displaying your items to other players in chat.",
   "authors": [
+    "libjared",
     "Apace"
   ],
   "contact": {
-    "homepage": "https://www.curseforge.com/minecraft/mc-mods/show-me-what-you-got",
-    "sources": "https://github.com/apace100/show-me-what-you-got",
-    "issues": "https://github.com/apace100/show-me-what-you-got/issues"
+    "homepage": "https://modrinth.com/mod/this-is-what-u-need",
+    "sources": "https://github.com/libjared/this-is-what-u-need",
+    "issues": "https://github.com/libjared/this-is-what-u-need/issues"
   },
 
   "license": "MIT",
